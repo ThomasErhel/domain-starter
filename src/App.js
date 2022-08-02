@@ -10,7 +10,7 @@ import { networks } from './utils/networks';
 const TWITTER_HANDLE = '_buildspace';
 const TWITTER_LINK = `https://twitter.com/${TWITTER_HANDLE}`;
 const tld = '.octocat';
-const CONTRACT_ADDRESS = '0x5FbDB2315678afecb367f032d93F642f64180aa3';
+const CONTRACT_ADDRESS = '0x9071bd6D41B2E18D4019d12c74F1E246e51F2EFF';
 
 const App = () => {
   const [currentAccount, setCurrentAccount] = useState('');
